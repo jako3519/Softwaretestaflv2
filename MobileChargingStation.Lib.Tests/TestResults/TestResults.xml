@@ -1,0 +1,14 @@
+<testsuites>
+  <testsuite name="MobileChargingStation.Lib.Tests.dll" tests="1" skipped="0" failures="0" errors="0" time="0.029216" timestamp="2025-03-11T16:15:15" hostname="LUND" id="0" package="MobileChargingStation.Lib.Tests.dll">
+    <properties />
+    <testcase classname="MobileChargingStation.Lib.Tests.Tests" name="Tests.Test1" time="0.0292160" />
+    <system-out>
+Test Framework Informational Messages:
+NUnit Adapter 5.0.0.0: Test execution started
+Running all tests in C:\Users\jako3\softwaretestaflevering2\MobileChargingStation.Lib.Tests\bin\Debug\net9.0\MobileChargingStation.Lib.Tests.dll
+   NUnit3TestExecutor discovered 1 of 1 NUnit test cases using Current Discovery mode, Non-Explicit run
+NUnit Adapter 5.0.0.0: Test execution complete
+</system-out>
+    <system-err></system-err>
+  </testsuite>
+</testsuites>
