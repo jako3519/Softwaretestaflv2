@@ -1,8 +1,8 @@
 # softwaretestAflevering2
 ## SoftwareTestAflevering
 
-Første Software Test aflevering Unit-test class Calculator
-
+Anden aflevering i Software Test aflevering Unit-test class Calculator
+Handler om vi skal bygge en event driven oplader bokse som senere skal unit testes, og tjekkes  coverage %. Jeg er dog ikke nået til unittest endnu, da afleveringen først er til fredag.
 # Gruppe: 
 
 SWTF25 7
